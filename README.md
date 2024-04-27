@@ -11,16 +11,20 @@
 - :student: Actualmente estoy estudiando `Ingeniería en ciencia de la computación`.
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
 
-<br>
+<br><br>
 
 ## 🛠️ Habilidades y herramientas
-<br>
+
+<br><br>
 
 ## Entorno de desarrollo integrado
-<br>
+
+<br><br>
 
 ## Sistemas Operativos
-<br>
+
+<br><br>
 
 ## Estadísticas de GitHub
-<br>
+
+<br><br>
