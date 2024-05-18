@@ -109,5 +109,8 @@
     <a href="https://github.com/DevTDavicho/project-movies">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevTDavicho&repo=project-movies&theme=tokyonight" alt="GitHub Stats"/>
     </a>
+    <a href="https://github.com/DevTDavicho/Aplicaciones-Web">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevTDavicho&repo=Aplicaciones-Web&theme=tokyonight" alt="GitHub Stats"/>
+    </a>
 </p>
 </details>
