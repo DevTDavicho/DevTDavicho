@@ -85,16 +85,18 @@
 </p>
 
 </details>
-
+<!--
 <details>
     <summary>
         <h3>  ⌨ Actividad reciente de GitHub </h3>
     </summary>
 
 ----
-<!--[![DevTDavicho's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevTDavicho&theme=github	)](https://github.com/DevTDavicho/github-readme-activity-graph)-->
+![Gráfico de actividad de GitHub de DevTDavicho](https://activity-graph.herokuapp.com/graph?username=DevTDavicho&theme=github)
+  
+  [Ver en GitHub](https://github.com/DevTDavicho)
 
-</details>
+</details>-->
 
 <details>
     <summary>
