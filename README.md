@@ -117,6 +117,9 @@
     <a href="https://github.com/DevTDavicho/Recuperacion-de-informacion">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevTDavicho&repo=Recuperacion-de-informacion&theme=tokyonight" alt="GitHub Stats"/>
     </a>
+    <a href="https://github.com/DevTDavicho/Ejercicios-de-Programacion-Estructurada">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevTDavicho&repo=Ejercicios-de-Programacion-Estructurada&theme=tokyonight" alt="GitHub Stats"/>
+    </a>
 </p>
 </details>
 
